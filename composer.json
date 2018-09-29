@@ -1,0 +1,18 @@
+{
+    "name": "blar/streams",
+    "description": "Streams",
+    "type": "library",
+    "license": "LGPL-3.0+",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "support": {
+        "source": "https://github.com/blar/streams/",
+        "issues": "https://github.com/blar/streams/issues",
+        "wiki": "https://github.com/blar/streams/wiki"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blar\\Streams\\": "src/Blar/Streams/"
+        }
+    }
+}
